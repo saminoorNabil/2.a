@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header h1{
+    background-color: aquamarine;
+    padding: 15px;
+    text-align: center;
+}
+nav h1{
+    padding: 15px;
+    background-color: cadetblue;
+    text-align: center;
+}
+section{
+    overflow: hidden;
+}
+aside{
+    background-color: coral;
+    width: 20%;
+    height: 300px;
+    float: left;
+    text-align: center;
+    
+}
+article{
+    background-color: cornflowerblue;
+    width: 80%;
+    height: 300px;
+    float: right;
+    text-align: center;
+    
+}
+footer{
+    background-color: darkcyan;
+    text-align: center;
+    padding: 20px;
+
+}
